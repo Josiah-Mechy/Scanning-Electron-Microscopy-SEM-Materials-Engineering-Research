@@ -21,7 +21,8 @@ This project explores the function, value, and classroom relevance of Scanning E
 - Research Paper: https://github.com/Josiah-Mechy/Scanning-Electron-Microscopy-SEM-Materials-Engineering-Research/blob/main/ENGM%20310%20Final%20Draft.pdf
 - PowerPoint: https://github.com/Josiah-Mechy/Scanning-Electron-Microscopy-SEM-Materials-Engineering-Research/blob/main/ENGM%20310%20Final%20Submission%20PowerPoint.pptx
 
-## Sources: Academic databases including ScienceDirect, Nanoscience.com, Nature.com, and Callister & Rethwisch, "Materials Science and Engineering: An Introduction."
+## Sources:
+- Academic databases including ScienceDirect, Nanoscience.com, Nature.com, and Callister & Rethwisch, "Materials Science and Engineering: An Introduction."
 
 ## What I Learned from the SEM Project:
 - Fundamentals of Electron Microscopy: Gained an understanding of how a scanning electron microscope uses a focused electron beam and electromagnetic lenses to produce high-resolution surface images.
@@ -31,13 +32,3 @@ This project explores the function, value, and classroom relevance of Scanning E
 
 ## Credits
 Liberty University Materials Engineering Class – Team of 3 students
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
