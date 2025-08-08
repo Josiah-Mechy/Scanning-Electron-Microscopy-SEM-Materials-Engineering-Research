@@ -7,7 +7,7 @@ This repository contains our group research project on Scanning Electron Microsc
 ## Project Overview
 This project explores the function, value, and classroom relevance of Scanning Electron Microscopy (SEM). SEM is a high-resolution imaging method used to study the surface topography and composition of materials. It plays a vital role in analyzing failure, microstructure, and material performance—essential themes in materials science.
 
-## Our research paper covers:
+## Our Research Paper Covers:
 -How SEM Works: Inner workings, electron beam mechanics, and detector signals
 -What SEM Shows: Topographic, compositional, and crystallographic information
 -Why SEM Matters: Industrial and academic applications, including connections to class topics such as phase diagrams, failure mechanisms, and alloy structures
